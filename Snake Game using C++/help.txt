@@ -1,0 +1,1 @@
+use ASWD for changing the directions of snake

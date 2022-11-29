@@ -1,0 +1,6 @@
+
+
+				Press z to start
+
+				 'h'	HELP 
+				 'q'    QUIT
